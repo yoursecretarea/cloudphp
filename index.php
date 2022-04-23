@@ -1,3 +1,3 @@
 <?php
 
-echo "hello kakak ahyar ganteng kan ?? ";
+echo "Cindy Pricilia 51019005 Prodi Sistem Informasi :)";
